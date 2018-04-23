@@ -18,8 +18,29 @@ $ java CalculateGrades
 
 ### Output
 
-The program first asks user to enter 5 assignment grades, then displays the assignment average after the lowest grade is dropped. The program proceeds to ask the user to enter 2 exam grades, and a lab grade.  
-
-After all the calculation is done, the program displays the formula that is used to get the calculated grade. 
-
-Then finally asks the user if they want to Continue.
+This programs output is,
+```
+Please enter assignment grade1
+100
+Please enter assignment grade2
+90
+Please enter assignment grade3
+80
+Please enter assignment grade4
+70
+Please enter assignment grade5
+60
+After the lowest grade is dropped, your assignment average will be 85.0
+Please enter 2 exam grades.
+100
+70
+Please enter the lab grade
+100
+Please enter the grade of your final exam
+80
+The weighted average is: 85.0 * 20% + 100.0 * 15% + 70.0 * 20% + 100.0 * 20% + 80.0 * 25% = 86.0
+You will recive a B.
+Do you want to calculate for another student? Please type 'true' or 'false'.
+false
+Bye, bye!
+```
