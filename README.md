@@ -2,7 +2,7 @@
 
 ### Description
 
-This project is a simple java program used to practice java loop and conditional statements. It calculates the semester grade using 5 assignment grades as 20%, Text1 as 15%, Test2 as 20%, LabGrade for 20%, and finally a Final Exam for 25%. It drops the lowest assignment grade, so after the 5 assignments are entered, it calculates the average of the highest 4 to get the assignment percentage. 
+This project is a simple java program used to practice java loop and conditional statements. It calculates the semester grade using 5 assignment grades as 20%, Test1 as 15%, Test2 as 20%, LabGrade for 20%, and finally a Final Exam for 25%. It drops the lowest assignment grade, so after the 5 assignments are entered, it calculates the average of the highest 4 to get the assignment percentage. 
 
 After all the grades are entered, It calculates the Letter Grade for the semester using the total grade after all the percentages are complete.
 
